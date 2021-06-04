@@ -147,7 +147,7 @@ namespace CalcTest
             Assert.AreEqual(actual, -70);
             Assert.Negative(actual);
         }
-/*
+
         [Test(Description = "Multiplication with zero integers")]
         public void Multiplication_with_zero_Integers()
         {
@@ -160,7 +160,7 @@ namespace CalcTest
             // ASSERT
             Assert.Zero(actual);
            
-        }*/
+        }/*
         [Test(Description = "Division of two positive integer")]
         public void Division_by_zero()
         {
@@ -172,7 +172,7 @@ namespace CalcTest
         
 
 
-        }
+        }*/
 
         [Test(Description = "Division of two positive integer")]
         public void Divide_two_positive_integers()
